@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: lightgrey;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: red;
+}
+
+span {
+    color: green;
+    font-weight: bolder;
+}
+
+.boxes {
+    margin: .5em;
+    padding: .5em;
+    border: solid rgb(175, 50, 175) .5em;
+    border-radius: 5%;
+    border-width: 30em;
+}
