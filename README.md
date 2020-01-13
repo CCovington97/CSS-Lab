@@ -38,7 +38,7 @@ Now, Lets style!
             4. add a border radius to round the edges of the border
             5. add a width of 30em
         2) Use an id selector to add a unique background color to each div.
-        3) Your lab at this point should resemble something like this, with the colors and margin/padding sizes being different for you, of course! Boxes before being re-positioned
+        Your lab at this point should resemble something like this, with the colors and margin/padding sizes being different for you, of course! Boxes before being re-positioned
 
     Position, how does it work?!
         1) Change the display to inline-block in your boxes class selector.

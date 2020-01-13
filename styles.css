@@ -24,9 +24,68 @@ span {
 }
 
 .boxes {
-    margin: .5em;
-    padding: .5em;
-    border: solid rgb(175, 50, 175) .5em;
+    margin: 1em;
+    padding: 1em;
+    border: solid rgb(175, 50, 175) 1em;
     border-radius: 5%;
-    border-width: 30em;
+    width: 30em;
+    background: goldenrod;
+    display: block;
+}
+
+div.img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background: green;
+    position: absolute;
+    left: 70px;
+}
+
+h1 {
+    color: green;
+}
+
+h1.original {
+    color: purple;
+}
+
+h1.additional {
+    color: blue;
+}
+
+h1#rank1 {
+    color: red;
+}
+
+h1#rank2 {
+    color: orange;
+}
+
+h1#rank3 {
+    color: gold;
+}
+
+h1#rank4 {
+    color: yellow;
+}
+
+h1#rank5 {
+    color: chartreuse
+}
+
+ul {
+    color: green;
+}
+
+ul.star {
+    color: purple;
+}
+
+ul#wars.star {
+    color: blue;
+}
+
+div.ul{
+    border: solid 2px;
 }
